@@ -1,58 +1,36 @@
-﻿<div align="center">
-
-# api-playground-lite
-
-**Test APIs, no tab switching.**
-
-![license](https://img.shields.io/github/license/knownasrazi/api-playground-lite?style=flat-square&color=ebe7e0&label=license)
-![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square&label=version)
-![cream](https://img.shields.io/badge/cream-aesthetic-ede9e3?style=flat-square&label=style)
-
-Local API playground - test REST and GraphQL without leaving the browser.
-
-</div>
+> ![license](https://img.shields.io/github/license/knownasrazi/api-playground-lite?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Vite%20%2B%20Fetch-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 ---
 
-## Preview
+# api-playground-lite
 
-> Test APIs, no tab switching. - built for vibe coders and web developers who ship.
+**Local API playground - test REST and GraphQL without leaving the browser.**
+
+> Test APIs, no tab switching.
+
+---
+
+## api-playground-lite vs the rest
+
+| Tool | api-playground-lite | Others |
+|------|-----------|--------|
+| **Privacy** | Local-first | Cloud upload |
+| **Aesthetic** | Cream, stone, ink | Neon, noise |
+| **Vibe** | For coders who ship | For managers who watch |
 
 ## Stack
 
-- Vite + React + TypeScript
-- Tailwind CSS (cream palette)
-- Biome for lint and format
+- Vite + Fetch
+- Built for the browser and the terminal
 
-## Get started
+## Run locally
 
 ```bash
 git clone https://github.com/knownasrazi/api-playground-lite.git
 cd api-playground-lite
-bun install
 bun run dev
 ```
-api-playground-lite/
-  src/
-    App.tsx      # app shell
-    index.css    # cream tokens
-  index.html
-  vite.config.ts
-  package.json
-```
-
-## Cream tokens
-
-Cream, stone, and ink - low contrast, high taste.
 
 ## License
 
-[MIT](./LICENSE) + [Razi](https://github.com/knownasrazi)
-
----
-
-<div align="center">
-
-**api-playground-lite** - Local API playground - test REST and GraphQL without leaving the browser.
-
-</div>
+[MIT](./LICENSE)
